@@ -1,13 +1,10 @@
-package ru.ancndz;
+package ru.ancndz.xmlTask;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.ancndz.FinalDataStructure.ActorsFList;
-import ru.ancndz.OriginalDataStructure.FilmsList;
+import ru.ancndz.xmlTask.xmlTask.XMLTransformer;
 
 import java.io.IOException;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class XMLTransformerTest {
 

@@ -1,4 +1,4 @@
-package ru.ancndz.FinalDataStructure;
+package ru.ancndz.xmlTask.xmlTask.FinalDataStructure;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlElementWrapper;

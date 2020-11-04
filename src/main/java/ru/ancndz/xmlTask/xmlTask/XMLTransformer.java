@@ -1,11 +1,11 @@
-package ru.ancndz;
+package ru.ancndz.xmlTask.xmlTask;
 
-import ru.ancndz.FinalDataStructure.ActorF;
-import ru.ancndz.FinalDataStructure.ActorsFList;
-import ru.ancndz.FinalDataStructure.FilmF;
-import ru.ancndz.OriginalDataStructure.Actor;
-import ru.ancndz.OriginalDataStructure.Film;
-import ru.ancndz.OriginalDataStructure.FilmsList;
+import ru.ancndz.xmlTask.xmlTask.FinalDataStructure.ActorF;
+import ru.ancndz.xmlTask.xmlTask.FinalDataStructure.ActorsFList;
+import ru.ancndz.xmlTask.xmlTask.FinalDataStructure.FilmF;
+import ru.ancndz.xmlTask.xmlTask.OriginalDataStructure.Actor;
+import ru.ancndz.xmlTask.xmlTask.OriginalDataStructure.Film;
+import ru.ancndz.xmlTask.xmlTask.OriginalDataStructure.FilmsList;
 
 import java.io.IOException;
 import java.util.ArrayList;
