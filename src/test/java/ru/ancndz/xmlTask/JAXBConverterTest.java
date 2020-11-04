@@ -2,8 +2,7 @@ package ru.ancndz.xmlTask;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.ancndz.xmlTask.xmlTask.JAXBConverter;
-import ru.ancndz.xmlTask.xmlTask.OriginalDataStructure.FilmsList;
+import ru.ancndz.xmlTask.OriginalDataStructure.FilmsList;
 
 import java.io.IOException;
 

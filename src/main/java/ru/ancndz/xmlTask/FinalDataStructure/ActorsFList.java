@@ -1,4 +1,4 @@
-package ru.ancndz.xmlTask.xmlTask.FinalDataStructure;
+package ru.ancndz.xmlTask.FinalDataStructure;
 
 import javax.xml.bind.annotation.*;
 import java.util.ArrayList;

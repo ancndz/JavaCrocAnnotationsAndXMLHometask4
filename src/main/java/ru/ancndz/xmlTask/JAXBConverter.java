@@ -1,4 +1,4 @@
-package ru.ancndz.xmlTask.xmlTask;
+package ru.ancndz.xmlTask;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.SerializationFeature;

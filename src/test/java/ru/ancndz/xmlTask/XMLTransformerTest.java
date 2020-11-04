@@ -2,7 +2,6 @@ package ru.ancndz.xmlTask;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.ancndz.xmlTask.xmlTask.XMLTransformer;
 
 import java.io.IOException;
 

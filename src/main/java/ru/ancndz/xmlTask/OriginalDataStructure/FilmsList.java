@@ -1,4 +1,4 @@
-package ru.ancndz.xmlTask.xmlTask.OriginalDataStructure;
+package ru.ancndz.xmlTask.OriginalDataStructure;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlElementWrapper;

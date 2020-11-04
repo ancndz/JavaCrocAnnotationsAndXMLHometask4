@@ -2,8 +2,6 @@ package ru.ancndz.AnnotationTask;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.ancndz.AnnotationTask.Annotations.MapKeyFail;
-import ru.ancndz.AnnotationTask.Annotations.MapValueFail;
 import ru.ancndz.AnnotationTask.Exceptions.PutMapKeyFailException;
 import ru.ancndz.AnnotationTask.Exceptions.PutMapValueFailException;
 import ru.ancndz.AnnotationTask.Keys.TestKey;
